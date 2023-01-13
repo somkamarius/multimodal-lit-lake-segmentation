@@ -1,0 +1,1397 @@
+/Users/bf3237/PycharmProjects/bakalauras/venv/bin/python /Users/bf3237/PycharmProjects/bakalauras/patching.py
+2023-01-12 13:07:47.480584: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Segmentation Models: using `keras` framework.
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/304.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/310.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/338.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/106.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/112.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/13.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/270.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/264.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/258.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/259.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/265.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/271.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/12.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/113.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/107.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/339.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/311.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/305.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/313.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/307.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/111.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/105.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/139.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/38.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/10.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/267.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/273.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/298.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/299.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/272.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/266.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/11.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/39.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/138.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/104.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/110.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/306.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/312.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/316.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/302.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/128.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/114.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/100.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/15.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/29.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/262.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/276.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/289.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/288.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/277.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/263.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/28.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/14.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/101.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/115.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/129.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/303.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/317.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/329.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/301.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/315.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/103.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/117.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/16.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/249.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/275.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/261.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/260.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/274.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/248.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/17.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/116.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/102.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/314.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/300.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/328.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/165.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/171.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/159.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/58.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/64.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/70.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/213.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/207.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/206.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/212.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/71.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/65.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/59.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/158.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/170.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/164.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/172.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/98.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/166.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/9.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/73.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/67.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/199.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/204.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/210.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/238.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/239.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/211.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/205.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/66.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/198.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/72.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/8.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/99.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/167.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/173.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/349.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/89.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/177.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/163.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/76.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/188.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/62.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/229.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/201.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/215.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/214.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/200.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/228.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/63.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/77.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/189.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/162.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/88.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/176.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/348.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/148.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/160.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/174.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/61.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/75.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/49.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/216.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/202.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/203.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/217.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/48.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/74.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/60.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/175.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/161.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/149.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/346.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/352.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/144.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/150.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/178.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/86.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/92.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/187.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/79.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/193.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/45.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/51.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/3.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/232.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/226.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/227.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/233.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/50.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/2.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/44.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/192.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/186.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/78.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/93.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/179.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/87.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/151.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/145.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/353.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/347.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/351.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/345.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/153.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/147.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/91.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/85.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/190.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/184.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/0.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/52.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/46.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/225.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/231.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/219.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/218.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/230.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/224.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/47.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/1.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/53.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/185.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/191.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/84.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/90.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/146.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/152.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/344.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/350.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/354.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/340.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/94.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/80.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/156.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/142.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/57.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/5.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/43.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/195.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/181.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/208.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/220.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/234.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/235.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/221.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/209.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/180.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/194.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/42.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/56.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/4.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/143.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/157.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/81.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/95.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/341.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/355.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/343.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/83.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/169.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/97.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/141.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/155.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/40.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/6.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/54.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/182.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/196.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/68.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/237.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/223.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/222.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/236.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/197.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/69.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/183.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/7.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/55.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/41.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/154.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/140.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/168.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/96.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/82.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/356.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/342.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/325.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/331.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/319.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/127.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/133.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/26.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/32.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/251.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/245.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/279.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/292.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/286.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/287.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/293.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/278.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/244.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/250.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/33.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/27.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/132.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/126.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/318.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/330.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/324.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/332.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/326.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/130.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/124.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/118.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/19.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/31.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/25.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/246.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/252.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/285.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/291.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/290.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/284.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/253.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/247.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/24.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/30.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/18.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/119.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/125.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/131.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/327.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/333.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/337.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/323.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/109.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/135.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/121.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/34.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/20.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/243.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/257.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/280.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/294.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/295.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/281.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/256.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/242.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/21.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/35.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/120.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/134.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/108.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/322.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/336.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/308.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/320.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/334.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/122.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/136.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/23.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/37.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/268.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/254.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/240.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/297.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/283.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/282.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/296.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/241.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/255.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/269.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/36.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/22.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/137.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/123.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/335.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/321.tif
+Now patchifying image: /Users/bf3237/PycharmProjects/bakalauras/data/images/309.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/304.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/310.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/338.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/106.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/112.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/13.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/270.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/264.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/258.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/259.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/265.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/271.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/12.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/113.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/107.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/339.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/311.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/305.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/313.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/307.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/111.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/105.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/139.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/38.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/10.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/267.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/273.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/298.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/299.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/272.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/266.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/11.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/39.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/138.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/104.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/110.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/306.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/312.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/316.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/302.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/128.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/114.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/100.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/15.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/29.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/262.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/276.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/289.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/288.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/277.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/263.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/28.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/14.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/101.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/115.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/129.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/303.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/317.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/329.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/301.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/315.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/103.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/117.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/16.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/249.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/275.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/261.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/260.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/274.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/248.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/17.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/116.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/102.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/314.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/300.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/328.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/165.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/171.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/159.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/58.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/64.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/70.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/213.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/207.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/206.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/212.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/71.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/65.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/59.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/158.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/170.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/164.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/172.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/98.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/166.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/9.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/73.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/67.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/199.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/204.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/210.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/238.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/239.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/211.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/205.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/66.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/198.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/72.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/8.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/99.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/167.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/173.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/349.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/89.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/177.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/163.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/76.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/188.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/62.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/229.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/201.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/215.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/214.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/200.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/228.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/63.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/77.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/189.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/162.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/88.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/176.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/348.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/148.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/160.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/174.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/61.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/75.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/49.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/216.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/202.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/203.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/217.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/48.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/74.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/60.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/175.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/161.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/149.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/346.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/352.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/144.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/150.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/178.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/86.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/92.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/187.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/79.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/193.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/45.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/51.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/3.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/232.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/226.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/227.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/233.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/50.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/2.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/44.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/192.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/186.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/78.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/93.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/179.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/87.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/151.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/145.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/353.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/347.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/351.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/345.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/153.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/147.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/91.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/85.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/190.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/184.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/0.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/52.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/46.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/225.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/231.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/219.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/218.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/230.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/224.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/47.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/1.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/53.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/185.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/191.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/84.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/90.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/146.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/152.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/344.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/350.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/354.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/340.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/94.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/80.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/156.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/142.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/57.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/5.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/43.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/195.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/181.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/208.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/220.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/234.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/235.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/221.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/209.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/180.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/194.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/42.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/56.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/4.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/143.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/157.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/81.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/95.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/341.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/355.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/343.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/83.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/169.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/97.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/141.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/155.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/40.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/6.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/54.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/182.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/196.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/68.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/237.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/223.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/222.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/236.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/197.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/69.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/183.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/7.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/55.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/41.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/154.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/140.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/168.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/96.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/82.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/356.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/342.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/325.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/331.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/319.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/127.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/133.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/26.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/32.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/251.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/245.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/279.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/292.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/286.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/287.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/293.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/278.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/244.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/250.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/33.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/27.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/132.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/126.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/318.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/330.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/324.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/332.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/326.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/130.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/124.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/118.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/19.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/31.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/25.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/246.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/252.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/285.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/291.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/290.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/284.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/253.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/247.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/24.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/30.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/18.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/119.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/125.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/131.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/327.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/333.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/337.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/323.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/109.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/135.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/121.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/34.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/20.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/243.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/257.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/280.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/294.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/295.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/281.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/256.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/242.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/21.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/35.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/120.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/134.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/108.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/322.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/336.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/308.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/320.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/334.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/122.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/136.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/23.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/37.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/268.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/254.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/240.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/297.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/283.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/282.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/296.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/241.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/255.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/269.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/36.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/22.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/137.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/123.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/335.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/321.tif
+Now patchifying mask: /Users/bf3237/PycharmProjects/bakalauras/data/masks/309.tif
+image_dataset 1203
+mask_dataset 1203
+Unique labels in label dataset are:  [0 1]
+2023-01-12 13:08:47.884236: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Epoch 1/10
+61/61 [==============================] - 337s 5s/step - loss: 0.7346 - accuracy: 0.8031 - jacard_coef: 0.5811 - val_loss: 0.6993 - val_accuracy: 0.8130 - val_jacard_coef: 0.6237
+Epoch 2/10
+61/61 [==============================] - 289s 5s/step - loss: 0.6792 - accuracy: 0.8463 - jacard_coef: 0.6993 - val_loss: 0.6377 - val_accuracy: 0.9254 - val_jacard_coef: 0.7325
+Epoch 3/10
+61/61 [==============================] - 297s 5s/step - loss: 0.6303 - accuracy: 0.9158 - jacard_coef: 0.8051 - val_loss: 0.6143 - val_accuracy: 0.9223 - val_jacard_coef: 0.8141
+Epoch 4/10
+61/61 [==============================] - 331s 5s/step - loss: 0.6193 - accuracy: 0.9202 - jacard_coef: 0.8268 - val_loss: 0.6233 - val_accuracy: 0.9308 - val_jacard_coef: 0.7902
+Epoch 5/10
+61/61 [==============================] - 308s 5s/step - loss: 0.6078 - accuracy: 0.9283 - jacard_coef: 0.8408 - val_loss: 0.5960 - val_accuracy: 0.9397 - val_jacard_coef: 0.8527
+Epoch 6/10
+61/61 [==============================] - 310s 5s/step - loss: 0.6097 - accuracy: 0.9240 - jacard_coef: 0.8372 - val_loss: 0.6007 - val_accuracy: 0.9435 - val_jacard_coef: 0.8356
+Epoch 7/10
+61/61 [==============================] - 321s 5s/step - loss: 0.6025 - accuracy: 0.9313 - jacard_coef: 0.8505 - val_loss: 0.5951 - val_accuracy: 0.9337 - val_jacard_coef: 0.8579
+Epoch 8/10
+61/61 [==============================] - 314s 5s/step - loss: 0.6005 - accuracy: 0.9318 - jacard_coef: 0.8516 - val_loss: 0.6095 - val_accuracy: 0.9345 - val_jacard_coef: 0.8119
+Epoch 9/10
+61/61 [==============================] - 378s 6s/step - loss: 0.5946 - accuracy: 0.9372 - jacard_coef: 0.8634 - val_loss: 0.6864 - val_accuracy: 0.8225 - val_jacard_coef: 0.6820
+Epoch 10/10
+61/61 [==============================] - 362s 6s/step - loss: 0.5895 - accuracy: 0.9396 - jacard_coef: 0.8674 - val_loss: 0.6371 - val_accuracy: 0.8966 - val_jacard_coef: 0.7913
+Downloading data from https://github.com/qubvel/classification_models/releases/download/0.0.1/resnet34_imagenet_1000_no_top.h5
+85521592/85521592 [==============================] - 6s 0us/step
+Model: "model_2"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to
+==================================================================================================
+ data (InputLayer)              [(None, None, None,  0           []
+                                 3)]
+
+ bn_data (BatchNormalization)   (None, None, None,   9           ['data[0][0]']
+                                3)
+
+ zero_padding2d (ZeroPadding2D)  (None, None, None,   0          ['bn_data[0][0]']
+                                3)
+
+ conv0 (Conv2D)                 (None, None, None,   9408        ['zero_padding2d[0][0]']
+                                64)
+
+ bn0 (BatchNormalization)       (None, None, None,   256         ['conv0[0][0]']
+                                64)
+
+ relu0 (Activation)             (None, None, None,   0           ['bn0[0][0]']
+                                64)
+
+ zero_padding2d_1 (ZeroPadding2  (None, None, None,   0          ['relu0[0][0]']
+ D)                             64)
+
+ pooling0 (MaxPooling2D)        (None, None, None,   0           ['zero_padding2d_1[0][0]']
+                                64)
+
+ stage1_unit1_bn1 (BatchNormali  (None, None, None,   256        ['pooling0[0][0]']
+ zation)                        64)
+
+ stage1_unit1_relu1 (Activation  (None, None, None,   0          ['stage1_unit1_bn1[0][0]']
+ )                              64)
+
+ zero_padding2d_2 (ZeroPadding2  (None, None, None,   0          ['stage1_unit1_relu1[0][0]']
+ D)                             64)
+
+ stage1_unit1_conv1 (Conv2D)    (None, None, None,   36864       ['zero_padding2d_2[0][0]']
+                                64)
+
+ stage1_unit1_bn2 (BatchNormali  (None, None, None,   256        ['stage1_unit1_conv1[0][0]']
+ zation)                        64)
+
+ stage1_unit1_relu2 (Activation  (None, None, None,   0          ['stage1_unit1_bn2[0][0]']
+ )                              64)
+
+ zero_padding2d_3 (ZeroPadding2  (None, None, None,   0          ['stage1_unit1_relu2[0][0]']
+ D)                             64)
+
+ stage1_unit1_conv2 (Conv2D)    (None, None, None,   36864       ['zero_padding2d_3[0][0]']
+                                64)
+
+ stage1_unit1_sc (Conv2D)       (None, None, None,   4096        ['stage1_unit1_relu1[0][0]']
+                                64)
+
+ add (Add)                      (None, None, None,   0           ['stage1_unit1_conv2[0][0]',
+                                64)                               'stage1_unit1_sc[0][0]']
+
+ stage1_unit2_bn1 (BatchNormali  (None, None, None,   256        ['add[0][0]']
+ zation)                        64)
+
+ stage1_unit2_relu1 (Activation  (None, None, None,   0          ['stage1_unit2_bn1[0][0]']
+ )                              64)
+
+ zero_padding2d_4 (ZeroPadding2  (None, None, None,   0          ['stage1_unit2_relu1[0][0]']
+ D)                             64)
+
+ stage1_unit2_conv1 (Conv2D)    (None, None, None,   36864       ['zero_padding2d_4[0][0]']
+                                64)
+
+ stage1_unit2_bn2 (BatchNormali  (None, None, None,   256        ['stage1_unit2_conv1[0][0]']
+ zation)                        64)
+
+ stage1_unit2_relu2 (Activation  (None, None, None,   0          ['stage1_unit2_bn2[0][0]']
+ )                              64)
+
+ zero_padding2d_5 (ZeroPadding2  (None, None, None,   0          ['stage1_unit2_relu2[0][0]']
+ D)                             64)
+
+ stage1_unit2_conv2 (Conv2D)    (None, None, None,   36864       ['zero_padding2d_5[0][0]']
+                                64)
+
+ add_1 (Add)                    (None, None, None,   0           ['stage1_unit2_conv2[0][0]',
+                                64)                               'add[0][0]']
+
+ stage1_unit3_bn1 (BatchNormali  (None, None, None,   256        ['add_1[0][0]']
+ zation)                        64)
+
+ stage1_unit3_relu1 (Activation  (None, None, None,   0          ['stage1_unit3_bn1[0][0]']
+ )                              64)
+
+ zero_padding2d_6 (ZeroPadding2  (None, None, None,   0          ['stage1_unit3_relu1[0][0]']
+ D)                             64)
+
+ stage1_unit3_conv1 (Conv2D)    (None, None, None,   36864       ['zero_padding2d_6[0][0]']
+                                64)
+
+ stage1_unit3_bn2 (BatchNormali  (None, None, None,   256        ['stage1_unit3_conv1[0][0]']
+ zation)                        64)
+
+ stage1_unit3_relu2 (Activation  (None, None, None,   0          ['stage1_unit3_bn2[0][0]']
+ )                              64)
+
+ zero_padding2d_7 (ZeroPadding2  (None, None, None,   0          ['stage1_unit3_relu2[0][0]']
+ D)                             64)
+
+ stage1_unit3_conv2 (Conv2D)    (None, None, None,   36864       ['zero_padding2d_7[0][0]']
+                                64)
+
+ add_2 (Add)                    (None, None, None,   0           ['stage1_unit3_conv2[0][0]',
+                                64)                               'add_1[0][0]']
+
+ stage2_unit1_bn1 (BatchNormali  (None, None, None,   256        ['add_2[0][0]']
+ zation)                        64)
+
+ stage2_unit1_relu1 (Activation  (None, None, None,   0          ['stage2_unit1_bn1[0][0]']
+ )                              64)
+
+ zero_padding2d_8 (ZeroPadding2  (None, None, None,   0          ['stage2_unit1_relu1[0][0]']
+ D)                             64)
+
+ stage2_unit1_conv1 (Conv2D)    (None, None, None,   73728       ['zero_padding2d_8[0][0]']
+                                128)
+
+ stage2_unit1_bn2 (BatchNormali  (None, None, None,   512        ['stage2_unit1_conv1[0][0]']
+ zation)                        128)
+
+ stage2_unit1_relu2 (Activation  (None, None, None,   0          ['stage2_unit1_bn2[0][0]']
+ )                              128)
+
+ zero_padding2d_9 (ZeroPadding2  (None, None, None,   0          ['stage2_unit1_relu2[0][0]']
+ D)                             128)
+
+ stage2_unit1_conv2 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_9[0][0]']
+                                128)
+
+ stage2_unit1_sc (Conv2D)       (None, None, None,   8192        ['stage2_unit1_relu1[0][0]']
+                                128)
+
+ add_3 (Add)                    (None, None, None,   0           ['stage2_unit1_conv2[0][0]',
+                                128)                              'stage2_unit1_sc[0][0]']
+
+ stage2_unit2_bn1 (BatchNormali  (None, None, None,   512        ['add_3[0][0]']
+ zation)                        128)
+
+ stage2_unit2_relu1 (Activation  (None, None, None,   0          ['stage2_unit2_bn1[0][0]']
+ )                              128)
+
+ zero_padding2d_10 (ZeroPadding  (None, None, None,   0          ['stage2_unit2_relu1[0][0]']
+ 2D)                            128)
+
+ stage2_unit2_conv1 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_10[0][0]']
+                                128)
+
+ stage2_unit2_bn2 (BatchNormali  (None, None, None,   512        ['stage2_unit2_conv1[0][0]']
+ zation)                        128)
+
+ stage2_unit2_relu2 (Activation  (None, None, None,   0          ['stage2_unit2_bn2[0][0]']
+ )                              128)
+
+ zero_padding2d_11 (ZeroPadding  (None, None, None,   0          ['stage2_unit2_relu2[0][0]']
+ 2D)                            128)
+
+ stage2_unit2_conv2 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_11[0][0]']
+                                128)
+
+ add_4 (Add)                    (None, None, None,   0           ['stage2_unit2_conv2[0][0]',
+                                128)                              'add_3[0][0]']
+
+ stage2_unit3_bn1 (BatchNormali  (None, None, None,   512        ['add_4[0][0]']
+ zation)                        128)
+
+ stage2_unit3_relu1 (Activation  (None, None, None,   0          ['stage2_unit3_bn1[0][0]']
+ )                              128)
+
+ zero_padding2d_12 (ZeroPadding  (None, None, None,   0          ['stage2_unit3_relu1[0][0]']
+ 2D)                            128)
+
+ stage2_unit3_conv1 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_12[0][0]']
+                                128)
+
+ stage2_unit3_bn2 (BatchNormali  (None, None, None,   512        ['stage2_unit3_conv1[0][0]']
+ zation)                        128)
+
+ stage2_unit3_relu2 (Activation  (None, None, None,   0          ['stage2_unit3_bn2[0][0]']
+ )                              128)
+
+ zero_padding2d_13 (ZeroPadding  (None, None, None,   0          ['stage2_unit3_relu2[0][0]']
+ 2D)                            128)
+
+ stage2_unit3_conv2 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_13[0][0]']
+                                128)
+
+ add_5 (Add)                    (None, None, None,   0           ['stage2_unit3_conv2[0][0]',
+                                128)                              'add_4[0][0]']
+
+ stage2_unit4_bn1 (BatchNormali  (None, None, None,   512        ['add_5[0][0]']
+ zation)                        128)
+
+ stage2_unit4_relu1 (Activation  (None, None, None,   0          ['stage2_unit4_bn1[0][0]']
+ )                              128)
+
+ zero_padding2d_14 (ZeroPadding  (None, None, None,   0          ['stage2_unit4_relu1[0][0]']
+ 2D)                            128)
+
+ stage2_unit4_conv1 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_14[0][0]']
+                                128)
+
+ stage2_unit4_bn2 (BatchNormali  (None, None, None,   512        ['stage2_unit4_conv1[0][0]']
+ zation)                        128)
+
+ stage2_unit4_relu2 (Activation  (None, None, None,   0          ['stage2_unit4_bn2[0][0]']
+ )                              128)
+
+ zero_padding2d_15 (ZeroPadding  (None, None, None,   0          ['stage2_unit4_relu2[0][0]']
+ 2D)                            128)
+
+ stage2_unit4_conv2 (Conv2D)    (None, None, None,   147456      ['zero_padding2d_15[0][0]']
+                                128)
+
+ add_6 (Add)                    (None, None, None,   0           ['stage2_unit4_conv2[0][0]',
+                                128)                              'add_5[0][0]']
+
+ stage3_unit1_bn1 (BatchNormali  (None, None, None,   512        ['add_6[0][0]']
+ zation)                        128)
+
+ stage3_unit1_relu1 (Activation  (None, None, None,   0          ['stage3_unit1_bn1[0][0]']
+ )                              128)
+
+ zero_padding2d_16 (ZeroPadding  (None, None, None,   0          ['stage3_unit1_relu1[0][0]']
+ 2D)                            128)
+
+ stage3_unit1_conv1 (Conv2D)    (None, None, None,   294912      ['zero_padding2d_16[0][0]']
+                                256)
+
+ stage3_unit1_bn2 (BatchNormali  (None, None, None,   1024       ['stage3_unit1_conv1[0][0]']
+ zation)                        256)
+
+ stage3_unit1_relu2 (Activation  (None, None, None,   0          ['stage3_unit1_bn2[0][0]']
+ )                              256)
+
+ zero_padding2d_17 (ZeroPadding  (None, None, None,   0          ['stage3_unit1_relu2[0][0]']
+ 2D)                            256)
+
+ stage3_unit1_conv2 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_17[0][0]']
+                                256)
+
+ stage3_unit1_sc (Conv2D)       (None, None, None,   32768       ['stage3_unit1_relu1[0][0]']
+                                256)
+
+ add_7 (Add)                    (None, None, None,   0           ['stage3_unit1_conv2[0][0]',
+                                256)                              'stage3_unit1_sc[0][0]']
+
+ stage3_unit2_bn1 (BatchNormali  (None, None, None,   1024       ['add_7[0][0]']
+ zation)                        256)
+
+ stage3_unit2_relu1 (Activation  (None, None, None,   0          ['stage3_unit2_bn1[0][0]']
+ )                              256)
+
+ zero_padding2d_18 (ZeroPadding  (None, None, None,   0          ['stage3_unit2_relu1[0][0]']
+ 2D)                            256)
+
+ stage3_unit2_conv1 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_18[0][0]']
+                                256)
+
+ stage3_unit2_bn2 (BatchNormali  (None, None, None,   1024       ['stage3_unit2_conv1[0][0]']
+ zation)                        256)
+
+ stage3_unit2_relu2 (Activation  (None, None, None,   0          ['stage3_unit2_bn2[0][0]']
+ )                              256)
+
+ zero_padding2d_19 (ZeroPadding  (None, None, None,   0          ['stage3_unit2_relu2[0][0]']
+ 2D)                            256)
+
+ stage3_unit2_conv2 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_19[0][0]']
+                                256)
+
+ add_8 (Add)                    (None, None, None,   0           ['stage3_unit2_conv2[0][0]',
+                                256)                              'add_7[0][0]']
+
+ stage3_unit3_bn1 (BatchNormali  (None, None, None,   1024       ['add_8[0][0]']
+ zation)                        256)
+
+ stage3_unit3_relu1 (Activation  (None, None, None,   0          ['stage3_unit3_bn1[0][0]']
+ )                              256)
+
+ zero_padding2d_20 (ZeroPadding  (None, None, None,   0          ['stage3_unit3_relu1[0][0]']
+ 2D)                            256)
+
+ stage3_unit3_conv1 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_20[0][0]']
+                                256)
+
+ stage3_unit3_bn2 (BatchNormali  (None, None, None,   1024       ['stage3_unit3_conv1[0][0]']
+ zation)                        256)
+
+ stage3_unit3_relu2 (Activation  (None, None, None,   0          ['stage3_unit3_bn2[0][0]']
+ )                              256)
+
+ zero_padding2d_21 (ZeroPadding  (None, None, None,   0          ['stage3_unit3_relu2[0][0]']
+ 2D)                            256)
+
+ stage3_unit3_conv2 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_21[0][0]']
+                                256)
+
+ add_9 (Add)                    (None, None, None,   0           ['stage3_unit3_conv2[0][0]',
+                                256)                              'add_8[0][0]']
+
+ stage3_unit4_bn1 (BatchNormali  (None, None, None,   1024       ['add_9[0][0]']
+ zation)                        256)
+
+ stage3_unit4_relu1 (Activation  (None, None, None,   0          ['stage3_unit4_bn1[0][0]']
+ )                              256)
+
+ zero_padding2d_22 (ZeroPadding  (None, None, None,   0          ['stage3_unit4_relu1[0][0]']
+ 2D)                            256)
+
+ stage3_unit4_conv1 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_22[0][0]']
+                                256)
+
+ stage3_unit4_bn2 (BatchNormali  (None, None, None,   1024       ['stage3_unit4_conv1[0][0]']
+ zation)                        256)
+
+ stage3_unit4_relu2 (Activation  (None, None, None,   0          ['stage3_unit4_bn2[0][0]']
+ )                              256)
+
+ zero_padding2d_23 (ZeroPadding  (None, None, None,   0          ['stage3_unit4_relu2[0][0]']
+ 2D)                            256)
+
+ stage3_unit4_conv2 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_23[0][0]']
+                                256)
+
+ add_10 (Add)                   (None, None, None,   0           ['stage3_unit4_conv2[0][0]',
+                                256)                              'add_9[0][0]']
+
+ stage3_unit5_bn1 (BatchNormali  (None, None, None,   1024       ['add_10[0][0]']
+ zation)                        256)
+
+ stage3_unit5_relu1 (Activation  (None, None, None,   0          ['stage3_unit5_bn1[0][0]']
+ )                              256)
+
+ zero_padding2d_24 (ZeroPadding  (None, None, None,   0          ['stage3_unit5_relu1[0][0]']
+ 2D)                            256)
+
+ stage3_unit5_conv1 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_24[0][0]']
+                                256)
+
+ stage3_unit5_bn2 (BatchNormali  (None, None, None,   1024       ['stage3_unit5_conv1[0][0]']
+ zation)                        256)
+
+ stage3_unit5_relu2 (Activation  (None, None, None,   0          ['stage3_unit5_bn2[0][0]']
+ )                              256)
+
+ zero_padding2d_25 (ZeroPadding  (None, None, None,   0          ['stage3_unit5_relu2[0][0]']
+ 2D)                            256)
+
+ stage3_unit5_conv2 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_25[0][0]']
+                                256)
+
+ add_11 (Add)                   (None, None, None,   0           ['stage3_unit5_conv2[0][0]',
+                                256)                              'add_10[0][0]']
+
+ stage3_unit6_bn1 (BatchNormali  (None, None, None,   1024       ['add_11[0][0]']
+ zation)                        256)
+
+ stage3_unit6_relu1 (Activation  (None, None, None,   0          ['stage3_unit6_bn1[0][0]']
+ )                              256)
+
+ zero_padding2d_26 (ZeroPadding  (None, None, None,   0          ['stage3_unit6_relu1[0][0]']
+ 2D)                            256)
+
+ stage3_unit6_conv1 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_26[0][0]']
+                                256)
+
+ stage3_unit6_bn2 (BatchNormali  (None, None, None,   1024       ['stage3_unit6_conv1[0][0]']
+ zation)                        256)
+
+ stage3_unit6_relu2 (Activation  (None, None, None,   0          ['stage3_unit6_bn2[0][0]']
+ )                              256)
+
+ zero_padding2d_27 (ZeroPadding  (None, None, None,   0          ['stage3_unit6_relu2[0][0]']
+ 2D)                            256)
+
+ stage3_unit6_conv2 (Conv2D)    (None, None, None,   589824      ['zero_padding2d_27[0][0]']
+                                256)
+
+ add_12 (Add)                   (None, None, None,   0           ['stage3_unit6_conv2[0][0]',
+                                256)                              'add_11[0][0]']
+
+ stage4_unit1_bn1 (BatchNormali  (None, None, None,   1024       ['add_12[0][0]']
+ zation)                        256)
+
+ stage4_unit1_relu1 (Activation  (None, None, None,   0          ['stage4_unit1_bn1[0][0]']
+ )                              256)
+
+ zero_padding2d_28 (ZeroPadding  (None, None, None,   0          ['stage4_unit1_relu1[0][0]']
+ 2D)                            256)
+
+ stage4_unit1_conv1 (Conv2D)    (None, None, None,   1179648     ['zero_padding2d_28[0][0]']
+                                512)
+
+ stage4_unit1_bn2 (BatchNormali  (None, None, None,   2048       ['stage4_unit1_conv1[0][0]']
+ zation)                        512)
+
+ stage4_unit1_relu2 (Activation  (None, None, None,   0          ['stage4_unit1_bn2[0][0]']
+ )                              512)
+
+ zero_padding2d_29 (ZeroPadding  (None, None, None,   0          ['stage4_unit1_relu2[0][0]']
+ 2D)                            512)
+
+ stage4_unit1_conv2 (Conv2D)    (None, None, None,   2359296     ['zero_padding2d_29[0][0]']
+                                512)
+
+ stage4_unit1_sc (Conv2D)       (None, None, None,   131072      ['stage4_unit1_relu1[0][0]']
+                                512)
+
+ add_13 (Add)                   (None, None, None,   0           ['stage4_unit1_conv2[0][0]',
+                                512)                              'stage4_unit1_sc[0][0]']
+
+ stage4_unit2_bn1 (BatchNormali  (None, None, None,   2048       ['add_13[0][0]']
+ zation)                        512)
+
+ stage4_unit2_relu1 (Activation  (None, None, None,   0          ['stage4_unit2_bn1[0][0]']
+ )                              512)
+
+ zero_padding2d_30 (ZeroPadding  (None, None, None,   0          ['stage4_unit2_relu1[0][0]']
+ 2D)                            512)
+
+ stage4_unit2_conv1 (Conv2D)    (None, None, None,   2359296     ['zero_padding2d_30[0][0]']
+                                512)
+
+ stage4_unit2_bn2 (BatchNormali  (None, None, None,   2048       ['stage4_unit2_conv1[0][0]']
+ zation)                        512)
+
+ stage4_unit2_relu2 (Activation  (None, None, None,   0          ['stage4_unit2_bn2[0][0]']
+ )                              512)
+
+ zero_padding2d_31 (ZeroPadding  (None, None, None,   0          ['stage4_unit2_relu2[0][0]']
+ 2D)                            512)
+
+ stage4_unit2_conv2 (Conv2D)    (None, None, None,   2359296     ['zero_padding2d_31[0][0]']
+                                512)
+
+ add_14 (Add)                   (None, None, None,   0           ['stage4_unit2_conv2[0][0]',
+                                512)                              'add_13[0][0]']
+
+ stage4_unit3_bn1 (BatchNormali  (None, None, None,   2048       ['add_14[0][0]']
+ zation)                        512)
+
+ stage4_unit3_relu1 (Activation  (None, None, None,   0          ['stage4_unit3_bn1[0][0]']
+ )                              512)
+
+ zero_padding2d_32 (ZeroPadding  (None, None, None,   0          ['stage4_unit3_relu1[0][0]']
+ 2D)                            512)
+
+ stage4_unit3_conv1 (Conv2D)    (None, None, None,   2359296     ['zero_padding2d_32[0][0]']
+                                512)
+
+ stage4_unit3_bn2 (BatchNormali  (None, None, None,   2048       ['stage4_unit3_conv1[0][0]']
+ zation)                        512)
+
+ stage4_unit3_relu2 (Activation  (None, None, None,   0          ['stage4_unit3_bn2[0][0]']
+ )                              512)
+
+ zero_padding2d_33 (ZeroPadding  (None, None, None,   0          ['stage4_unit3_relu2[0][0]']
+ 2D)                            512)
+
+ stage4_unit3_conv2 (Conv2D)    (None, None, None,   2359296     ['zero_padding2d_33[0][0]']
+                                512)
+
+ add_15 (Add)                   (None, None, None,   0           ['stage4_unit3_conv2[0][0]',
+                                512)                              'add_14[0][0]']
+
+ bn1 (BatchNormalization)       (None, None, None,   2048        ['add_15[0][0]']
+                                512)
+
+ relu1 (Activation)             (None, None, None,   0           ['bn1[0][0]']
+                                512)
+
+ fpn_stage_p5_pre_conv (Conv2D)  (None, None, None,   131328     ['relu1[0][0]']
+                                256)
+
+ fpn_stage_p5_upsampling (UpSam  (None, None, None,   0          ['fpn_stage_p5_pre_conv[0][0]']
+ pling2D)                       256)
+
+ fpn_stage_p5_conv (Conv2D)     (None, None, None,   65792       ['stage4_unit1_relu1[0][0]']
+                                256)
+
+ fpn_stage_p5_add (Add)         (None, None, None,   0           ['fpn_stage_p5_upsampling[0][0]',
+                                256)                              'fpn_stage_p5_conv[0][0]']
+
+ fpn_stage_p4_upsampling (UpSam  (None, None, None,   0          ['fpn_stage_p5_add[0][0]']
+ pling2D)                       256)
+
+ fpn_stage_p4_conv (Conv2D)     (None, None, None,   33024       ['stage3_unit1_relu1[0][0]']
+                                256)
+
+ fpn_stage_p4_add (Add)         (None, None, None,   0           ['fpn_stage_p4_upsampling[0][0]',
+                                256)                              'fpn_stage_p4_conv[0][0]']
+
+ fpn_stage_p3_upsampling (UpSam  (None, None, None,   0          ['fpn_stage_p4_add[0][0]']
+ pling2D)                       256)
+
+ fpn_stage_p3_conv (Conv2D)     (None, None, None,   16640       ['stage2_unit1_relu1[0][0]']
+                                256)
+
+ fpn_stage_p3_add (Add)         (None, None, None,   0           ['fpn_stage_p3_upsampling[0][0]',
+                                256)                              'fpn_stage_p3_conv[0][0]']
+
+ fpn_stage_p2_upsampling (UpSam  (None, None, None,   0          ['fpn_stage_p3_add[0][0]']
+ pling2D)                       256)
+
+ fpn_stage_p2_conv (Conv2D)     (None, None, None,   16640       ['relu0[0][0]']
+                                256)
+
+ fpn_stage_p2_add (Add)         (None, None, None,   0           ['fpn_stage_p2_upsampling[0][0]',
+                                256)                              'fpn_stage_p2_conv[0][0]']
+
+ segm_stage3a_conv (Conv2D)     (None, None, None,   294912      ['fpn_stage_p3_add[0][0]']
+                                128)
+
+ segm_stage4a_conv (Conv2D)     (None, None, None,   294912      ['fpn_stage_p4_add[0][0]']
+                                128)
+
+ segm_stage5a_conv (Conv2D)     (None, None, None,   294912      ['fpn_stage_p5_add[0][0]']
+                                128)
+
+ segm_stage2a_conv (Conv2D)     (None, None, None,   294912      ['fpn_stage_p2_add[0][0]']
+                                128)
+
+ segm_stage3a_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage3a_conv[0][0]']
+ ation)                         128)
+
+ segm_stage4a_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage4a_conv[0][0]']
+ ation)                         128)
+
+ segm_stage5a_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage5a_conv[0][0]']
+ ation)                         128)
+
+ segm_stage2a_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage2a_conv[0][0]']
+ ation)                         128)
+
+ segm_stage3a_relu (Activation)  (None, None, None,   0          ['segm_stage3a_bn[0][0]']
+                                128)
+
+ segm_stage4a_relu (Activation)  (None, None, None,   0          ['segm_stage4a_bn[0][0]']
+                                128)
+
+ segm_stage5a_relu (Activation)  (None, None, None,   0          ['segm_stage5a_bn[0][0]']
+                                128)
+
+ segm_stage2a_relu (Activation)  (None, None, None,   0          ['segm_stage2a_bn[0][0]']
+                                128)
+
+ segm_stage3b_conv (Conv2D)     (None, None, None,   147456      ['segm_stage3a_relu[0][0]']
+                                128)
+
+ segm_stage4b_conv (Conv2D)     (None, None, None,   147456      ['segm_stage4a_relu[0][0]']
+                                128)
+
+ segm_stage5b_conv (Conv2D)     (None, None, None,   147456      ['segm_stage5a_relu[0][0]']
+                                128)
+
+ segm_stage2b_conv (Conv2D)     (None, None, None,   147456      ['segm_stage2a_relu[0][0]']
+                                128)
+
+ segm_stage3b_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage3b_conv[0][0]']
+ ation)                         128)
+
+ segm_stage4b_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage4b_conv[0][0]']
+ ation)                         128)
+
+ segm_stage5b_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage5b_conv[0][0]']
+ ation)                         128)
+
+ segm_stage2b_bn (BatchNormaliz  (None, None, None,   512        ['segm_stage2b_conv[0][0]']
+ ation)                         128)
+
+ segm_stage3b_relu (Activation)  (None, None, None,   0          ['segm_stage3b_bn[0][0]']
+                                128)
+
+ segm_stage4b_relu (Activation)  (None, None, None,   0          ['segm_stage4b_bn[0][0]']
+                                128)
+
+ segm_stage5b_relu (Activation)  (None, None, None,   0          ['segm_stage5b_bn[0][0]']
+                                128)
+
+ segm_stage2b_relu (Activation)  (None, None, None,   0          ['segm_stage2b_bn[0][0]']
+                                128)
+
+ upsampling_stage3 (UpSampling2  (None, None, None,   0          ['segm_stage3b_relu[0][0]']
+ D)                             128)
+
+ upsampling_stage4 (UpSampling2  (None, None, None,   0          ['segm_stage4b_relu[0][0]']
+ D)                             128)
+
+ upsampling_stage5 (UpSampling2  (None, None, None,   0          ['segm_stage5b_relu[0][0]']
+ D)                             128)
+
+ aggregation_concat (Concatenat  (None, None, None,   0          ['segm_stage2b_relu[0][0]',
+ e)                             512)                              'upsampling_stage3[0][0]',
+                                                                  'upsampling_stage4[0][0]',
+                                                                  'upsampling_stage5[0][0]']
+
+ final_stage_conv (Conv2D)      (None, None, None,   589824      ['aggregation_concat[0][0]']
+                                128)
+
+ final_stage_bn (BatchNormaliza  (None, None, None,   512        ['final_stage_conv[0][0]']
+ tion)                          128)
+
+ final_stage_relu (Activation)  (None, None, None,   0           ['final_stage_bn[0][0]']
+                                128)
+
+ final_upsampling (UpSampling2D  (None, None, None,   0          ['final_stage_relu[0][0]']
+ )                              128)
+
+ head_conv (Conv2D)             (None, None, None,   2306        ['final_upsampling[0][0]']
+                                2)
+
+ softmax (Activation)           (None, None, None,   0           ['head_conv[0][0]']
+                                2)
+
+==================================================================================================
+Total params: 23,932,107
+Trainable params: 23,914,437
+Non-trainable params: 17,670
+__________________________________________________________________________________________________
+None
+Epoch 1/10
+61/61 [==============================] - 1208s 20s/step - loss: 0.6605 - accuracy: 0.8705 - jacard_coef: 0.7538 - val_loss: 0.9040 - val_accuracy: 0.5261 - val_jacard_coef: 0.3152
+Epoch 2/10
+61/61 [==============================] - 1230s 20s/step - loss: 0.6206 - accuracy: 0.9123 - jacard_coef: 0.8142 - val_loss: 2.5893 - val_accuracy: 0.1542 - val_jacard_coef: 0.0792
+Epoch 3/10
+61/61 [==============================] - 1494s 24s/step - loss: 0.5997 - accuracy: 0.9278 - jacard_coef: 0.8469 - val_loss: 0.7800 - val_accuracy: 0.6351 - val_jacard_coef: 0.4680
+Epoch 4/10
+61/61 [==============================] - 1812s 30s/step - loss: 0.6128 - accuracy: 0.9198 - jacard_coef: 0.8315 - val_loss: 1.6809 - val_accuracy: 0.1547 - val_jacard_coef: 0.0833
+Epoch 5/10
+61/61 [==============================] - 1178s 19s/step - loss: 0.6074 - accuracy: 0.9191 - jacard_coef: 0.8330 - val_loss: 1.1136 - val_accuracy: 0.1775 - val_jacard_coef: 0.1297
+Epoch 6/10
+61/61 [==============================] - 1063s 17s/step - loss: 0.5912 - accuracy: 0.9356 - jacard_coef: 0.8607 - val_loss: 1.6282 - val_accuracy: 0.1560 - val_jacard_coef: 0.0874
+Epoch 7/10
+61/61 [==============================] - 973s 16s/step - loss: 0.5885 - accuracy: 0.9380 - jacard_coef: 0.8648 - val_loss: 1.7983 - val_accuracy: 0.1562 - val_jacard_coef: 0.0855
+Epoch 8/10
+61/61 [==============================] - 1056s 17s/step - loss: 0.5753 - accuracy: 0.9480 - jacard_coef: 0.8863 - val_loss: 1.0038 - val_accuracy: 0.2327 - val_jacard_coef: 0.1751
+Epoch 9/10
+61/61 [==============================] - 1238s 20s/step - loss: 0.5908 - accuracy: 0.9361 - jacard_coef: 0.8612 - val_loss: 0.7327 - val_accuracy: 0.8008 - val_jacard_coef: 0.6082
+Epoch 10/10
+61/61 [==============================] - 1222s 20s/step - loss: 0.5820 - accuracy: 0.9414 - jacard_coef: 0.8731 - val_loss: 0.9652 - val_accuracy: 0.8458 - val_jacard_coef: 0.7502
+8/8 [==============================] - 50s 6s/step
+Mean IoU = 0.42290708
+1/1 [==============================] - 0s 244ms/step
+
+Process finished with exit code 0
